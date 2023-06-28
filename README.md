@@ -1,4 +1,6 @@
-Muhammad Dzaky Zahran - 0110221044
+Muhammad Dzaky Zahran
+0110221044
+4TI02
 
 # simple-java-maven-app
 
